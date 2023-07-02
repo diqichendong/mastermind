@@ -1,0 +1,11 @@
+combinacion_secreta;marron,rojo,morado,amarillo,rosa
+intento;rojo,rojo,rojo,rojo,rojo
+intento;amarillo,naranja,rojo,azul,verde
+intento;amarillo,morado,rojo,marron,rosa
+intento;marron,morado,rojo,amarillo,rosa
+intento;marron,rojo,morado,amarillo,rosa
+pista;blanco,negro,blanco,blanco,blanco
+pista;blanco,blanco,
+pista;blanco,blanco,blanco,blanco,negro
+pista;negro,blanco,blanco,negro,negro
+pista;negro,negro,negro,negro,negro

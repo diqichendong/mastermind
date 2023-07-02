@@ -1,0 +1,5 @@
+combinacion_secreta;amarillo,morado,rosa,azul,rojo
+intento;naranja,marron,amarillo,azul,verde
+intento;amarillo,morado,rosa,azul,rojo
+pista;blanco,negro,
+pista;negro,negro,negro,negro,negro

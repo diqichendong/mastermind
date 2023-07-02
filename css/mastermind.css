@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito&display=swap");
+
+* {
+	font-family: "Nunito", sans-serif;
+}
+
+body {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	background-color: bisque;
+}
+
+th {
+	padding: 0 20px;
+}
+
+td {
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+	text-align: center;
+}
+
+tr td:first-child {
+	border: none;
+}
+
+.rojo {
+	background-color: red;
+}
+
+.amarillo {
+	background-color: yellow;
+}
+
+.naranja {
+	background-color: orange;
+}
+
+.azul {
+	background-color: lightskyblue;
+}
+
+.verde {
+	background-color: lightgreen;
+}
+
+.rosa {
+	background-color: pink;
+}
+
+.morado {
+	background-color: mediumpurple;
+}
+
+.marron {
+	background-color: chocolate;
+}
+
+.negro {
+	background-color: black;
+}
+
+.blanco {
+	background-color: white;
+}

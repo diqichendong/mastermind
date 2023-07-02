@@ -1,0 +1,7 @@
+combinacion_secreta;amarillo,rojo,verde,rosa,naranja
+intento;rojo,rojo,rojo,rojo,rojo
+intento;rojo,rojo,rojo,rojo,rojo
+intento;amarillo,rojo,verde,rosa,naranja
+pista;blanco,negro,blanco,blanco,blanco
+pista;blanco,negro,blanco,blanco,blanco
+pista;negro,negro,negro,negro,negro
